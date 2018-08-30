@@ -46,6 +46,8 @@ public:
   const std::string Rbac = "envoy.filters.http.rbac";
   // JWT authentication filter
   const std::string JwtAuthn = "envoy.filters.http.jwt_authn";
+  // JWT authentication filter for OIDC
+  const std::string JwtAuthn = "jwt_authn_oidc";
   // Header to metadata filter
   const std::string HeaderToMetadata = "envoy.filters.http.header_to_metadata";
 

@@ -1,3 +1,5 @@
+For adding an OpenID Connect filter to Envoy for POC purposes.
+
 ![Envoy Logo](https://github.com/envoyproxy/artwork/blob/master/PNG/Envoy_Logo_Final_PANTONE.png)
 
 [C++ L7 proxy and communication bus](https://www.envoyproxy.io/)
